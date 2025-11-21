@@ -1,2 +1,2 @@
 # Yellanki_project
-write title of your project
+Machine Learning for Titanium (Ti): Predicting Thermal Expansion Using MD and ML.
